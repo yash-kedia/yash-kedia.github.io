@@ -1,0 +1,32 @@
+body{
+    background:url(gym.jpg) no-repeat center center fixed;
+    font-family: 'Crete Round',serif;
+    background-size:cover;
+}
+div{
+    background-color: lightblue;
+    width:50%;
+    margin: 100px auto;
+    text-align: center;
+    border-radius: 25px;
+    opacity: 0.8;
+}
+h1{
+    font-size: 4em;
+}
+p{
+    font-size:1.5em;
+}
+button{
+    background: orange;
+    padding: 20px;
+    color: white;
+    font-size:2em;
+    border-radius: 10px;
+
+}
+i{
+    font-size:4em;
+    color:rgb(160, 23, 23);
+
+}
